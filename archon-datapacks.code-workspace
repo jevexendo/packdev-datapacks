@@ -6,13 +6,17 @@
 		},
 		{
 			"path": "./Archon"
+		},
+		{
+			"path": "./Bow Attributes"
 		}
 	],
 	"settings": {
 		"editor.formatOnSave": true,
 		"files.insertFinalNewline": true,
 		"files.exclude": {
-			"Archon/": true
+			"Archon/": true,
+			"Bow Attributes/": true
 		}
 	}
 }
