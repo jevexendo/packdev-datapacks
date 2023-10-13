@@ -1,4 +1,4 @@
-#> archon:attributes/default
+#> archon:attributes/vanillla
 
 attribute @s minecraft:generic.armor base set 0
 attribute @s minecraft:generic.armor_toughness base set 0
